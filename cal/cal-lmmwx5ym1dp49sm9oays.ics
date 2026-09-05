@@ -1,4 +1,3172 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//test//EN
+PRODID:-//Contracts Workbook//Shamsi Calendar//FA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:قراردادها
+X-WR-TIMEZONE:Asia/Tehran
+X-PUBLISHED-TTL:PT4H
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+BEGIN:VTIMEZONE
+TZID:Asia/Tehran
+X-LIC-LOCATION:Asia/Tehran
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0330
+TZOFFSETTO:+0330
+TZNAME:+0330
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:qc20260818132537-0001-j-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270520T090000
+DTEND;TZID=Asia/Tehran:20270520T093000
+SUMMARY:تاریخ پایان مدت اولیه 
+ قرارداد — بیستون / RES-CON/140
+ 5-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ پایان مدت ا
+ ولیه قرارداد\nتاریخ سررسید (شم
+ سی): 1406/02/30\nسطر 3 در فایل
+  قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان مدت او
+ لیه قرارداد — بیستون / RES-CON
+ /1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان مدت او
+ لیه قرارداد — بیستون / RES-CON
+ /1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-j-d7@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270513T090000
+DTEND;TZID=Asia/Tehran:20270513T093000
+SUMMARY:7 روز مانده به: تاریخ 
+ پایان مدت اولیه قرارداد — بیست
+ ون / RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ پایان مدت ا
+ ولیه قرارداد\nتاریخ سررسید (شم
+ سی): 1406/02/30\nاین یادآوری 7
+  روز قبل از سررسید است.\nسطر 3
+  در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ پایان مدت اولیه قرارداد — 
+ بیستون / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ پایان مدت اولیه قرارداد — 
+ بیستون / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-j-d30@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270420T090000
+DTEND;TZID=Asia/Tehran:20270420T093000
+SUMMARY:30 روز مانده به: تاریخ
+  پایان مدت اولیه قرارداد — بیس
+ تون / RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ پایان مدت ا
+ ولیه قرارداد\nتاریخ سررسید (شم
+ سی): 1406/02/30\nاین یادآوری 3
+ 0 روز قبل از سررسید است.\nسطر 
+ 3 در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ پایان مدت اولیه قرارداد —
+  بیستون / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ پایان مدت اولیه قرارداد —
+  بیستون / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-j-d60@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270321T090000
+DTEND;TZID=Asia/Tehran:20270321T093000
+SUMMARY:60 روز مانده به: تاریخ
+  پایان مدت اولیه قرارداد — بیس
+ تون / RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ پایان مدت ا
+ ولیه قرارداد\nتاریخ سررسید (شم
+ سی): 1406/02/30\nاین یادآوری 6
+ 0 روز قبل از سررسید است.\nسطر 
+ 3 در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ پایان مدت اولیه قرارداد —
+  بیستون / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ پایان مدت اولیه قرارداد —
+  بیستون / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-j-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270107T090000
+DTEND;TZID=Asia/Tehran:20270107T093000
+SUMMARY:تاریخ پایان مدت اولیه 
+ قرارداد — چمران / RES-CON/1405
+ -002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ پایان مدت او
+ لیه قرارداد\nتاریخ سررسید (شمس
+ ی): 1405/10/17\nسطر 4 در فایل 
+ قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان مدت او
+ لیه قرارداد — چمران / RES-CON/
+ 1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان مدت او
+ لیه قرارداد — چمران / RES-CON/
+ 1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-j-d7@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261231T090000
+DTEND;TZID=Asia/Tehran:20261231T093000
+SUMMARY:7 روز مانده به: تاریخ 
+ پایان مدت اولیه قرارداد — چمرا
+ ن / RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ پایان مدت او
+ لیه قرارداد\nتاریخ سررسید (شمس
+ ی): 1405/10/17\nاین یادآوری 7 
+ روز قبل از سررسید است.\nسطر 4 
+ در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ پایان مدت اولیه قرارداد — 
+ چمران / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ پایان مدت اولیه قرارداد — 
+ چمران / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-j-d30@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261208T090000
+DTEND;TZID=Asia/Tehran:20261208T093000
+SUMMARY:30 روز مانده به: تاریخ
+  پایان مدت اولیه قرارداد — چمر
+ ان / RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ پایان مدت او
+ لیه قرارداد\nتاریخ سررسید (شمس
+ ی): 1405/10/17\nاین یادآوری 30
+  روز قبل از سررسید است.\nسطر 4
+  در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ پایان مدت اولیه قرارداد —
+  چمران / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ پایان مدت اولیه قرارداد —
+  چمران / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-j-d60@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261108T090000
+DTEND;TZID=Asia/Tehran:20261108T093000
+SUMMARY:60 روز مانده به: تاریخ
+  پایان مدت اولیه قرارداد — چمر
+ ان / RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ پایان مدت او
+ لیه قرارداد\nتاریخ سررسید (شمس
+ ی): 1405/10/17\nاین یادآوری 60
+  روز قبل از سررسید است.\nسطر 4
+  در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ پایان مدت اولیه قرارداد —
+  چمران / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ پایان مدت اولیه قرارداد —
+  چمران / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-j-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270906T090000
+DTEND;TZID=Asia/Tehran:20270906T093000
+SUMMARY:تاریخ پایان مدت اولیه 
+ قرارداد — چمران / RES-CON/1405
+ -003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ پایان مدت او
+ لیه قرارداد\nتاریخ سررسید (شمس
+ ی): 1406/06/15\nسطر 5 در فایل 
+ قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان مدت او
+ لیه قرارداد — چمران / RES-CON/
+ 1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان مدت او
+ لیه قرارداد — چمران / RES-CON/
+ 1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-j-d7@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270830T090000
+DTEND;TZID=Asia/Tehran:20270830T093000
+SUMMARY:7 روز مانده به: تاریخ 
+ پایان مدت اولیه قرارداد — چمرا
+ ن / RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ پایان مدت او
+ لیه قرارداد\nتاریخ سررسید (شمس
+ ی): 1406/06/15\nاین یادآوری 7 
+ روز قبل از سررسید است.\nسطر 5 
+ در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ پایان مدت اولیه قرارداد — 
+ چمران / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ پایان مدت اولیه قرارداد — 
+ چمران / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-j-d30@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270807T090000
+DTEND;TZID=Asia/Tehran:20270807T093000
+SUMMARY:30 روز مانده به: تاریخ
+  پایان مدت اولیه قرارداد — چمر
+ ان / RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ پایان مدت او
+ لیه قرارداد\nتاریخ سررسید (شمس
+ ی): 1406/06/15\nاین یادآوری 30
+  روز قبل از سررسید است.\nسطر 5
+  در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ پایان مدت اولیه قرارداد —
+  چمران / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ پایان مدت اولیه قرارداد —
+  چمران / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-j-d60@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270708T090000
+DTEND;TZID=Asia/Tehran:20270708T093000
+SUMMARY:60 روز مانده به: تاریخ
+  پایان مدت اولیه قرارداد — چمر
+ ان / RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ پایان مدت او
+ لیه قرارداد\nتاریخ سررسید (شمس
+ ی): 1406/06/15\nاین یادآوری 60
+  روز قبل از سررسید است.\nسطر 5
+  در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ پایان مدت اولیه قرارداد —
+  چمران / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ پایان مدت اولیه قرارداد —
+  چمران / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-m-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270308T090000
+DTEND;TZID=Asia/Tehran:20270308T093000
+SUMMARY:تاریخ پایان مدت تمدید 
+ قرارداد — چمران / RES-CON/1405
+ -002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ پایان مدت تم
+ دید قرارداد\nتاریخ سررسید (شمس
+ ی): 1405/12/17\nسطر 4 در فایل 
+ قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان مدت تم
+ دید قرارداد — چمران / RES-CON/
+ 1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان مدت تم
+ دید قرارداد — چمران / RES-CON/
+ 1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-m-d7@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270301T090000
+DTEND;TZID=Asia/Tehran:20270301T093000
+SUMMARY:7 روز مانده به: تاریخ 
+ پایان مدت تمدید قرارداد — چمرا
+ ن / RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ پایان مدت تم
+ دید قرارداد\nتاریخ سررسید (شمس
+ ی): 1405/12/17\nاین یادآوری 7 
+ روز قبل از سررسید است.\nسطر 4 
+ در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ پایان مدت تمدید قرارداد — 
+ چمران / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ پایان مدت تمدید قرارداد — 
+ چمران / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-m-d30@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270206T090000
+DTEND;TZID=Asia/Tehran:20270206T093000
+SUMMARY:30 روز مانده به: تاریخ
+  پایان مدت تمدید قرارداد — چمر
+ ان / RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ پایان مدت تم
+ دید قرارداد\nتاریخ سررسید (شمس
+ ی): 1405/12/17\nاین یادآوری 30
+  روز قبل از سررسید است.\nسطر 4
+  در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ پایان مدت تمدید قرارداد —
+  چمران / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ پایان مدت تمدید قرارداد —
+  چمران / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-x-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261012T090000
+DTEND;TZID=Asia/Tehran:20261012T093000
+SUMMARY:تاریخ تضمین شرکت در من
+ اقصه — بیستون / RES-CON/1405-0
+ 01
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ تضمین شرکت 
+ در مناقصه\nتاریخ سررسید (شمسی)
+ : 1405/07/20\nسطر 3 در فایل قر
+ اردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ تضمین شرکت د
+ ر مناقصه — بیستون / RES-CON/14
+ 05-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ تضمین شرکت د
+ ر مناقصه — بیستون / RES-CON/14
+ 05-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-x-d10@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261002T090000
+DTEND;TZID=Asia/Tehran:20261002T093000
+SUMMARY:10 روز مانده به: تاریخ
+  تضمین شرکت در مناقصه — بیستون
+  / RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ تضمین شرکت 
+ در مناقصه\nتاریخ سررسید (شمسی)
+ : 1405/07/20\nاین یادآوری 10 ر
+ وز قبل از سررسید است.\nسطر 3 د
+ ر فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ تضمین شرکت در مناقصه — بی
+ ستون / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ تضمین شرکت در مناقصه — بی
+ ستون / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-x-d30@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20260912T090000
+DTEND;TZID=Asia/Tehran:20260912T093000
+SUMMARY:30 روز مانده به: تاریخ
+  تضمین شرکت در مناقصه — بیستون
+  / RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ تضمین شرکت 
+ در مناقصه\nتاریخ سررسید (شمسی)
+ : 1405/07/20\nاین یادآوری 30 ر
+ وز قبل از سررسید است.\nسطر 3 د
+ ر فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ تضمین شرکت در مناقصه — بی
+ ستون / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ تضمین شرکت در مناقصه — بی
+ ستون / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-x-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261101T090000
+DTEND;TZID=Asia/Tehran:20261101T093000
+SUMMARY:تاریخ تضمین شرکت در من
+ اقصه — چمران / RES-CON/1405-00
+ 2
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ تضمین شرکت د
+ ر مناقصه\nتاریخ سررسید (شمسی):
+  1405/08/10\nسطر 4 در فایل قرا
+ ردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ تضمین شرکت د
+ ر مناقصه — چمران / RES-CON/140
+ 5-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ تضمین شرکت د
+ ر مناقصه — چمران / RES-CON/140
+ 5-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-x-d10@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261022T090000
+DTEND;TZID=Asia/Tehran:20261022T093000
+SUMMARY:10 روز مانده به: تاریخ
+  تضمین شرکت در مناقصه — چمران 
+ / RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ تضمین شرکت د
+ ر مناقصه\nتاریخ سررسید (شمسی):
+  1405/08/10\nاین یادآوری 10 رو
+ ز قبل از سررسید است.\nسطر 4 در
+  فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ تضمین شرکت در مناقصه — چم
+ ران / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ تضمین شرکت در مناقصه — چم
+ ران / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-x-d30@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261002T090000
+DTEND;TZID=Asia/Tehran:20261002T093000
+SUMMARY:30 روز مانده به: تاریخ
+  تضمین شرکت در مناقصه — چمران 
+ / RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ تضمین شرکت د
+ ر مناقصه\nتاریخ سررسید (شمسی):
+  1405/08/10\nاین یادآوری 30 رو
+ ز قبل از سررسید است.\nسطر 4 در
+  فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ تضمین شرکت در مناقصه — چم
+ ران / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ تضمین شرکت در مناقصه — چم
+ ران / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-x-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261122T090000
+DTEND;TZID=Asia/Tehran:20261122T093000
+SUMMARY:تاریخ تضمین شرکت در من
+ اقصه — چمران / RES-CON/1405-00
+ 3
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ تضمین شرکت د
+ ر مناقصه\nتاریخ سررسید (شمسی):
+  1405/09/01\nسطر 5 در فایل قرا
+ ردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ تضمین شرکت د
+ ر مناقصه — چمران / RES-CON/140
+ 5-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ تضمین شرکت د
+ ر مناقصه — چمران / RES-CON/140
+ 5-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-x-d10@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261112T090000
+DTEND;TZID=Asia/Tehran:20261112T093000
+SUMMARY:10 روز مانده به: تاریخ
+  تضمین شرکت در مناقصه — چمران 
+ / RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ تضمین شرکت د
+ ر مناقصه\nتاریخ سررسید (شمسی):
+  1405/09/01\nاین یادآوری 10 رو
+ ز قبل از سررسید است.\nسطر 5 در
+  فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ تضمین شرکت در مناقصه — چم
+ ران / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ تضمین شرکت در مناقصه — چم
+ ران / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-x-d30@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261023T090000
+DTEND;TZID=Asia/Tehran:20261023T093000
+SUMMARY:30 روز مانده به: تاریخ
+  تضمین شرکت در مناقصه — چمران 
+ / RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ تضمین شرکت د
+ ر مناقصه\nتاریخ سررسید (شمسی):
+  1405/09/01\nاین یادآوری 30 رو
+ ز قبل از سررسید است.\nسطر 5 در
+  فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ تضمین شرکت در مناقصه — چم
+ ران / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ تضمین شرکت در مناقصه — چم
+ ران / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-ac-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270620T090000
+DTEND;TZID=Asia/Tehran:20270620T093000
+SUMMARY:تاریخ تضمین حسن انجام 
+ تعهدات — بیستون / RES-CON/1405
+ -001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ تضمین حسن ا
+ نجام تعهدات\nتاریخ سررسید (شمس
+ ی): 1406/03/30\nسطر 3 در فایل 
+ قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ تضمین حسن ان
+ جام تعهدات — بیستون / RES-CON/
+ 1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ تضمین حسن ان
+ جام تعهدات — بیستون / RES-CON/
+ 1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-ac-d10@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270610T090000
+DTEND;TZID=Asia/Tehran:20270610T093000
+SUMMARY:10 روز مانده به: تاریخ
+  تضمین حسن انجام تعهدات — بیست
+ ون / RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ تضمین حسن ا
+ نجام تعهدات\nتاریخ سررسید (شمس
+ ی): 1406/03/30\nاین یادآوری 10
+  روز قبل از سررسید است.\nسطر 3
+  در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ تضمین حسن انجام تعهدات — 
+ بیستون / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ تضمین حسن انجام تعهدات — 
+ بیستون / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-ac-d30@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270521T090000
+DTEND;TZID=Asia/Tehran:20270521T093000
+SUMMARY:30 روز مانده به: تاریخ
+  تضمین حسن انجام تعهدات — بیست
+ ون / RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ تضمین حسن ا
+ نجام تعهدات\nتاریخ سررسید (شمس
+ ی): 1406/03/30\nاین یادآوری 30
+  روز قبل از سررسید است.\nسطر 3
+  در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ تضمین حسن انجام تعهدات — 
+ بیستون / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ تضمین حسن انجام تعهدات — 
+ بیستون / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-ac-d60@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270421T090000
+DTEND;TZID=Asia/Tehran:20270421T093000
+SUMMARY:60 روز مانده به: تاریخ
+  تضمین حسن انجام تعهدات — بیست
+ ون / RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ تضمین حسن ا
+ نجام تعهدات\nتاریخ سررسید (شمس
+ ی): 1406/03/30\nاین یادآوری 60
+  روز قبل از سررسید است.\nسطر 3
+  در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ تضمین حسن انجام تعهدات — 
+ بیستون / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ تضمین حسن انجام تعهدات — 
+ بیستون / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-ac-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270414T090000
+DTEND;TZID=Asia/Tehran:20270414T093000
+SUMMARY:تاریخ تضمین حسن انجام 
+ تعهدات — چمران / RES-CON/1405-
+ 002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ تضمین حسن ان
+ جام تعهدات\nتاریخ سررسید (شمسی
+ ): 1406/01/25\nسطر 4 در فایل ق
+ راردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ تضمین حسن ان
+ جام تعهدات — چمران / RES-CON/1
+ 405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ تضمین حسن ان
+ جام تعهدات — چمران / RES-CON/1
+ 405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-ac-d10@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270404T090000
+DTEND;TZID=Asia/Tehran:20270404T093000
+SUMMARY:10 روز مانده به: تاریخ
+  تضمین حسن انجام تعهدات — چمرا
+ ن / RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ تضمین حسن ان
+ جام تعهدات\nتاریخ سررسید (شمسی
+ ): 1406/01/25\nاین یادآوری 10 
+ روز قبل از سررسید است.\nسطر 4 
+ در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ تضمین حسن انجام تعهدات — 
+ چمران / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ تضمین حسن انجام تعهدات — 
+ چمران / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-ac-d30@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270315T090000
+DTEND;TZID=Asia/Tehran:20270315T093000
+SUMMARY:30 روز مانده به: تاریخ
+  تضمین حسن انجام تعهدات — چمرا
+ ن / RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ تضمین حسن ان
+ جام تعهدات\nتاریخ سررسید (شمسی
+ ): 1406/01/25\nاین یادآوری 30 
+ روز قبل از سررسید است.\nسطر 4 
+ در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ تضمین حسن انجام تعهدات — 
+ چمران / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ تضمین حسن انجام تعهدات — 
+ چمران / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-ac-d60@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270213T090000
+DTEND;TZID=Asia/Tehran:20270213T093000
+SUMMARY:60 روز مانده به: تاریخ
+  تضمین حسن انجام تعهدات — چمرا
+ ن / RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ تضمین حسن ان
+ جام تعهدات\nتاریخ سررسید (شمسی
+ ): 1406/01/25\nاین یادآوری 60 
+ روز قبل از سررسید است.\nسطر 4 
+ در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ تضمین حسن انجام تعهدات — 
+ چمران / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ تضمین حسن انجام تعهدات — 
+ چمران / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-ac-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270921T090000
+DTEND;TZID=Asia/Tehran:20270921T093000
+SUMMARY:تاریخ تضمین حسن انجام 
+ تعهدات — چمران / RES-CON/1405-
+ 003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ تضمین حسن ان
+ جام تعهدات\nتاریخ سررسید (شمسی
+ ): 1406/06/30\nسطر 5 در فایل ق
+ راردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ تضمین حسن ان
+ جام تعهدات — چمران / RES-CON/1
+ 405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ تضمین حسن ان
+ جام تعهدات — چمران / RES-CON/1
+ 405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-ac-d10@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270911T090000
+DTEND;TZID=Asia/Tehran:20270911T093000
+SUMMARY:10 روز مانده به: تاریخ
+  تضمین حسن انجام تعهدات — چمرا
+ ن / RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ تضمین حسن ان
+ جام تعهدات\nتاریخ سررسید (شمسی
+ ): 1406/06/30\nاین یادآوری 10 
+ روز قبل از سررسید است.\nسطر 5 
+ در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ تضمین حسن انجام تعهدات — 
+ چمران / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ تضمین حسن انجام تعهدات — 
+ چمران / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-ac-d30@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270822T090000
+DTEND;TZID=Asia/Tehran:20270822T093000
+SUMMARY:30 روز مانده به: تاریخ
+  تضمین حسن انجام تعهدات — چمرا
+ ن / RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ تضمین حسن ان
+ جام تعهدات\nتاریخ سررسید (شمسی
+ ): 1406/06/30\nاین یادآوری 30 
+ روز قبل از سررسید است.\nسطر 5 
+ در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ تضمین حسن انجام تعهدات — 
+ چمران / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ تضمین حسن انجام تعهدات — 
+ چمران / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-ac-d60@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270723T090000
+DTEND;TZID=Asia/Tehran:20270723T093000
+SUMMARY:60 روز مانده به: تاریخ
+  تضمین حسن انجام تعهدات — چمرا
+ ن / RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ تضمین حسن ان
+ جام تعهدات\nتاریخ سررسید (شمسی
+ ): 1406/06/30\nاین یادآوری 60 
+ روز قبل از سررسید است.\nسطر 5 
+ در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ تضمین حسن انجام تعهدات — 
+ چمران / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ تضمین حسن انجام تعهدات — 
+ چمران / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-ah-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270311T090000
+DTEND;TZID=Asia/Tehran:20270311T093000
+SUMMARY:تاریخ تضمین پیش‌پرداخت
+  — بیستون / RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ تضمین پیش‌پ
+ رداخت\nتاریخ سررسید (شمسی): 14
+ 05/12/20\nسطر 3 در فایل قراردا
+ دها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ تضمین پیش‌پر
+ داخت — بیستون / RES-CON/1405-0
+ 01
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ تضمین پیش‌پر
+ داخت — بیستون / RES-CON/1405-0
+ 01
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-ah-d10@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270301T090000
+DTEND;TZID=Asia/Tehran:20270301T093000
+SUMMARY:10 روز مانده به: تاریخ
+  تضمین پیش‌پرداخت — بیستون / R
+ ES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ تضمین پیش‌پ
+ رداخت\nتاریخ سررسید (شمسی): 14
+ 05/12/20\nاین یادآوری 10 روز ق
+ بل از سررسید است.\nسطر 3 در فا
+ یل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ تضمین پیش‌پرداخت — بیستون
+  / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ تضمین پیش‌پرداخت — بیستون
+  / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-ah-d30@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270209T090000
+DTEND;TZID=Asia/Tehran:20270209T093000
+SUMMARY:30 روز مانده به: تاریخ
+  تضمین پیش‌پرداخت — بیستون / R
+ ES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ تضمین پیش‌پ
+ رداخت\nتاریخ سررسید (شمسی): 14
+ 05/12/20\nاین یادآوری 30 روز ق
+ بل از سررسید است.\nسطر 3 در فا
+ یل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ تضمین پیش‌پرداخت — بیستون
+  / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ تضمین پیش‌پرداخت — بیستون
+  / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-ah-d60@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270110T090000
+DTEND;TZID=Asia/Tehran:20270110T093000
+SUMMARY:60 روز مانده به: تاریخ
+  تضمین پیش‌پرداخت — بیستون / R
+ ES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ تضمین پیش‌پ
+ رداخت\nتاریخ سررسید (شمسی): 14
+ 05/12/20\nاین یادآوری 60 روز ق
+ بل از سررسید است.\nسطر 3 در فا
+ یل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ تضمین پیش‌پرداخت — بیستون
+  / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ تضمین پیش‌پرداخت — بیستون
+  / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-am-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261106T090000
+DTEND;TZID=Asia/Tehran:20261106T093000
+SUMMARY:تاریخ سایر تضامین — بی
+ ستون / RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ سایر تضامین
+ \nتاریخ سررسید (شمسی): 1405/08
+ /15\nسطر 3 در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ سایر تضامین 
+ — بیستون / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ سایر تضامین 
+ — بیستون / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-am-d10@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261027T090000
+DTEND;TZID=Asia/Tehran:20261027T093000
+SUMMARY:10 روز مانده به: تاریخ
+  سایر تضامین — بیستون / RES-CO
+ N/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ سایر تضامین
+ \nتاریخ سررسید (شمسی): 1405/08
+ /15\nاین یادآوری 10 روز قبل از
+  سررسید است.\nسطر 3 در فایل قر
+ اردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ سایر تضامین — بیستون / RE
+ S-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ سایر تضامین — بیستون / RE
+ S-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-am-d30@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261007T090000
+DTEND;TZID=Asia/Tehran:20261007T093000
+SUMMARY:30 روز مانده به: تاریخ
+  سایر تضامین — بیستون / RES-CO
+ N/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ سایر تضامین
+ \nتاریخ سررسید (شمسی): 1405/08
+ /15\nاین یادآوری 30 روز قبل از
+  سررسید است.\nسطر 3 در فایل قر
+ اردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ سایر تضامین — بیستون / RE
+ S-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ سایر تضامین — بیستون / RE
+ S-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-aq-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20260916T090000
+DTEND;TZID=Asia/Tehran:20260916T093000
+SUMMARY:تاریخ مقرر پرداخت قسط 
+ اول — بیستون / RES-CON/1405-00
+ 1
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ مقرر پرداخت
+  قسط اول\nتاریخ سررسید (شمسی):
+  1405/06/25\nسطر 3 در فایل قرا
+ ردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ مقرر پرداخت 
+ قسط اول — بیستون / RES-CON/140
+ 5-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ مقرر پرداخت 
+ قسط اول — بیستون / RES-CON/140
+ 5-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-aq-d3@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20260913T090000
+DTEND;TZID=Asia/Tehran:20260913T093000
+SUMMARY:3 روز مانده به: تاریخ 
+ مقرر پرداخت قسط اول — بیستون /
+  RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ مقرر پرداخت
+  قسط اول\nتاریخ سررسید (شمسی):
+  1405/06/25\nاین یادآوری 3 روز
+  قبل از سررسید است.\nسطر 3 در 
+ فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ مقرر پرداخت قسط اول — بیست
+ ون / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ مقرر پرداخت قسط اول — بیست
+ ون / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-aq-d7@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20260909T090000
+DTEND;TZID=Asia/Tehran:20260909T093000
+SUMMARY:7 روز مانده به: تاریخ 
+ مقرر پرداخت قسط اول — بیستون /
+  RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ مقرر پرداخت
+  قسط اول\nتاریخ سررسید (شمسی):
+  1405/06/25\nاین یادآوری 7 روز
+  قبل از سررسید است.\nسطر 3 در 
+ فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ مقرر پرداخت قسط اول — بیست
+ ون / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ مقرر پرداخت قسط اول — بیست
+ ون / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-aq-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20260923T090000
+DTEND;TZID=Asia/Tehran:20260923T093000
+SUMMARY:تاریخ مقرر پرداخت قسط 
+ اول — چمران / RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ مقرر پرداخت 
+ قسط اول\nتاریخ سررسید (شمسی): 
+ 1405/07/01\nسطر 4 در فایل قرار
+ دادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ مقرر پرداخت 
+ قسط اول — چمران / RES-CON/1405
+ -002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ مقرر پرداخت 
+ قسط اول — چمران / RES-CON/1405
+ -002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-aq-d3@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20260920T090000
+DTEND;TZID=Asia/Tehran:20260920T093000
+SUMMARY:3 روز مانده به: تاریخ 
+ مقرر پرداخت قسط اول — چمران / 
+ RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ مقرر پرداخت 
+ قسط اول\nتاریخ سررسید (شمسی): 
+ 1405/07/01\nاین یادآوری 3 روز 
+ قبل از سررسید است.\nسطر 4 در ف
+ ایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ مقرر پرداخت قسط اول — چمرا
+ ن / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ مقرر پرداخت قسط اول — چمرا
+ ن / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-aq-d7@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20260916T090000
+DTEND;TZID=Asia/Tehran:20260916T093000
+SUMMARY:7 روز مانده به: تاریخ 
+ مقرر پرداخت قسط اول — چمران / 
+ RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ مقرر پرداخت 
+ قسط اول\nتاریخ سررسید (شمسی): 
+ 1405/07/01\nاین یادآوری 7 روز 
+ قبل از سررسید است.\nسطر 4 در ف
+ ایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ مقرر پرداخت قسط اول — چمرا
+ ن / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ مقرر پرداخت قسط اول — چمرا
+ ن / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-aq-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261002T090000
+DTEND;TZID=Asia/Tehran:20261002T093000
+SUMMARY:تاریخ مقرر پرداخت قسط 
+ اول — چمران / RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ مقرر پرداخت 
+ قسط اول\nتاریخ سررسید (شمسی): 
+ 1405/07/10\nسطر 5 در فایل قرار
+ دادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ مقرر پرداخت 
+ قسط اول — چمران / RES-CON/1405
+ -003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ مقرر پرداخت 
+ قسط اول — چمران / RES-CON/1405
+ -003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-aq-d3@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20260929T090000
+DTEND;TZID=Asia/Tehran:20260929T093000
+SUMMARY:3 روز مانده به: تاریخ 
+ مقرر پرداخت قسط اول — چمران / 
+ RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ مقرر پرداخت 
+ قسط اول\nتاریخ سررسید (شمسی): 
+ 1405/07/10\nاین یادآوری 3 روز 
+ قبل از سررسید است.\nسطر 5 در ف
+ ایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ مقرر پرداخت قسط اول — چمرا
+ ن / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ مقرر پرداخت قسط اول — چمرا
+ ن / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-aq-d7@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20260925T090000
+DTEND;TZID=Asia/Tehran:20260925T093000
+SUMMARY:7 روز مانده به: تاریخ 
+ مقرر پرداخت قسط اول — چمران / 
+ RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ مقرر پرداخت 
+ قسط اول\nتاریخ سررسید (شمسی): 
+ 1405/07/10\nاین یادآوری 7 روز 
+ قبل از سررسید است.\nسطر 5 در ف
+ ایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ مقرر پرداخت قسط اول — چمرا
+ ن / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ مقرر پرداخت قسط اول — چمرا
+ ن / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-av-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261206T090000
+DTEND;TZID=Asia/Tehran:20261206T093000
+SUMMARY:تاریخ مقرر پرداخت قسط 
+ دوم — بیستون / RES-CON/1405-00
+ 1
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ مقرر پرداخت
+  قسط دوم\nتاریخ سررسید (شمسی):
+  1405/09/15\nسطر 3 در فایل قرا
+ ردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ مقرر پرداخت 
+ قسط دوم — بیستون / RES-CON/140
+ 5-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ مقرر پرداخت 
+ قسط دوم — بیستون / RES-CON/140
+ 5-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-av-d3@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261203T090000
+DTEND;TZID=Asia/Tehran:20261203T093000
+SUMMARY:3 روز مانده به: تاریخ 
+ مقرر پرداخت قسط دوم — بیستون /
+  RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ مقرر پرداخت
+  قسط دوم\nتاریخ سررسید (شمسی):
+  1405/09/15\nاین یادآوری 3 روز
+  قبل از سررسید است.\nسطر 3 در 
+ فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ مقرر پرداخت قسط دوم — بیست
+ ون / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ مقرر پرداخت قسط دوم — بیست
+ ون / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-av-d7@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261129T090000
+DTEND;TZID=Asia/Tehran:20261129T093000
+SUMMARY:7 روز مانده به: تاریخ 
+ مقرر پرداخت قسط دوم — بیستون /
+  RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ مقرر پرداخت
+  قسط دوم\nتاریخ سررسید (شمسی):
+  1405/09/15\nاین یادآوری 7 روز
+  قبل از سررسید است.\nسطر 3 در 
+ فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ مقرر پرداخت قسط دوم — بیست
+ ون / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ مقرر پرداخت قسط دوم — بیست
+ ون / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-av-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270121T090000
+DTEND;TZID=Asia/Tehran:20270121T093000
+SUMMARY:تاریخ مقرر پرداخت قسط 
+ دوم — چمران / RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ مقرر پرداخت 
+ قسط دوم\nتاریخ سررسید (شمسی): 
+ 1405/11/01\nسطر 4 در فایل قرار
+ دادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ مقرر پرداخت 
+ قسط دوم — چمران / RES-CON/1405
+ -002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ مقرر پرداخت 
+ قسط دوم — چمران / RES-CON/1405
+ -002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-av-d3@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270118T090000
+DTEND;TZID=Asia/Tehran:20270118T093000
+SUMMARY:3 روز مانده به: تاریخ 
+ مقرر پرداخت قسط دوم — چمران / 
+ RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ مقرر پرداخت 
+ قسط دوم\nتاریخ سررسید (شمسی): 
+ 1405/11/01\nاین یادآوری 3 روز 
+ قبل از سررسید است.\nسطر 4 در ف
+ ایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ مقرر پرداخت قسط دوم — چمرا
+ ن / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ مقرر پرداخت قسط دوم — چمرا
+ ن / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-av-d7@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270114T090000
+DTEND;TZID=Asia/Tehran:20270114T093000
+SUMMARY:7 روز مانده به: تاریخ 
+ مقرر پرداخت قسط دوم — چمران / 
+ RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ مقرر پرداخت 
+ قسط دوم\nتاریخ سررسید (شمسی): 
+ 1405/11/01\nاین یادآوری 7 روز 
+ قبل از سررسید است.\nسطر 4 در ف
+ ایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ مقرر پرداخت قسط دوم — چمرا
+ ن / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ مقرر پرداخت قسط دوم — چمرا
+ ن / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-av-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261231T090000
+DTEND;TZID=Asia/Tehran:20261231T093000
+SUMMARY:تاریخ مقرر پرداخت قسط 
+ دوم — چمران / RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ مقرر پرداخت 
+ قسط دوم\nتاریخ سررسید (شمسی): 
+ 1405/10/10\nسطر 5 در فایل قرار
+ دادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ مقرر پرداخت 
+ قسط دوم — چمران / RES-CON/1405
+ -003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ مقرر پرداخت 
+ قسط دوم — چمران / RES-CON/1405
+ -003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-av-d3@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261228T090000
+DTEND;TZID=Asia/Tehran:20261228T093000
+SUMMARY:3 روز مانده به: تاریخ 
+ مقرر پرداخت قسط دوم — چمران / 
+ RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ مقرر پرداخت 
+ قسط دوم\nتاریخ سررسید (شمسی): 
+ 1405/10/10\nاین یادآوری 3 روز 
+ قبل از سررسید است.\nسطر 5 در ف
+ ایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ مقرر پرداخت قسط دوم — چمرا
+ ن / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ مقرر پرداخت قسط دوم — چمرا
+ ن / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-av-d7@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20261224T090000
+DTEND;TZID=Asia/Tehran:20261224T093000
+SUMMARY:7 روز مانده به: تاریخ 
+ مقرر پرداخت قسط دوم — چمران / 
+ RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ مقرر پرداخت 
+ قسط دوم\nتاریخ سررسید (شمسی): 
+ 1405/10/10\nاین یادآوری 7 روز 
+ قبل از سررسید است.\nسطر 5 در ف
+ ایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ مقرر پرداخت قسط دوم — چمرا
+ ن / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ مقرر پرداخت قسط دوم — چمرا
+ ن / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-ba-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270430T090000
+DTEND;TZID=Asia/Tehran:20270430T093000
+SUMMARY:تاریخ مقرر پرداخت قسط 
+ سوم — چمران / RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ مقرر پرداخت 
+ قسط سوم\nتاریخ سررسید (شمسی): 
+ 1406/02/10\nسطر 5 در فایل قرار
+ دادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ مقرر پرداخت 
+ قسط سوم — چمران / RES-CON/1405
+ -003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ مقرر پرداخت 
+ قسط سوم — چمران / RES-CON/1405
+ -003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-ba-d3@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270427T090000
+DTEND;TZID=Asia/Tehran:20270427T093000
+SUMMARY:3 روز مانده به: تاریخ 
+ مقرر پرداخت قسط سوم — چمران / 
+ RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ مقرر پرداخت 
+ قسط سوم\nتاریخ سررسید (شمسی): 
+ 1406/02/10\nاین یادآوری 3 روز 
+ قبل از سررسید است.\nسطر 5 در ف
+ ایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ مقرر پرداخت قسط سوم — چمرا
+ ن / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ مقرر پرداخت قسط سوم — چمرا
+ ن / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-ba-d7@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270423T090000
+DTEND;TZID=Asia/Tehran:20270423T093000
+SUMMARY:7 روز مانده به: تاریخ 
+ مقرر پرداخت قسط سوم — چمران / 
+ RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ مقرر پرداخت 
+ قسط سوم\nتاریخ سررسید (شمسی): 
+ 1406/02/10\nاین یادآوری 7 روز 
+ قبل از سررسید است.\nسطر 5 در ف
+ ایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ مقرر پرداخت قسط سوم — چمرا
+ ن / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ مقرر پرداخت قسط سوم — چمرا
+ ن / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-bj-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270531T090000
+DTEND;TZID=Asia/Tehran:20270531T093000
+SUMMARY:تاریخ برگزاری کمیسیون 
+ تحویل موقت — بیستون / RES-CON/
+ 1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ برگزاری کمی
+ سیون تحویل موقت\nتاریخ سررسید 
+ (شمسی): 1406/03/10\nسطر 3 در ف
+ ایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ برگزاری کمیس
+ یون تحویل موقت — بیستون / RES-
+ CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ برگزاری کمیس
+ یون تحویل موقت — بیستون / RES-
+ CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-bj-d3@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270528T090000
+DTEND;TZID=Asia/Tehran:20270528T093000
+SUMMARY:3 روز مانده به: تاریخ 
+ برگزاری کمیسیون تحویل موقت — ب
+ یستون / RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ برگزاری کمی
+ سیون تحویل موقت\nتاریخ سررسید 
+ (شمسی): 1406/03/10\nاین یادآور
+ ی 3 روز قبل از سررسید است.\nسط
+ ر 3 در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ برگزاری کمیسیون تحویل موقت
+  — بیستون / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ برگزاری کمیسیون تحویل موقت
+  — بیستون / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-bj-d7@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270524T090000
+DTEND;TZID=Asia/Tehran:20270524T093000
+SUMMARY:7 روز مانده به: تاریخ 
+ برگزاری کمیسیون تحویل موقت — ب
+ یستون / RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ برگزاری کمی
+ سیون تحویل موقت\nتاریخ سررسید 
+ (شمسی): 1406/03/10\nاین یادآور
+ ی 7 روز قبل از سررسید است.\nسط
+ ر 3 در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ برگزاری کمیسیون تحویل موقت
+  — بیستون / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ برگزاری کمیسیون تحویل موقت
+  — بیستون / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-bj-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270121T090000
+DTEND;TZID=Asia/Tehran:20270121T093000
+SUMMARY:تاریخ برگزاری کمیسیون 
+ تحویل موقت — چمران / RES-CON/1
+ 405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ برگزاری کمیس
+ یون تحویل موقت\nتاریخ سررسید (
+ شمسی): 1405/11/01\nسطر 4 در فا
+ یل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ برگزاری کمیس
+ یون تحویل موقت — چمران / RES-C
+ ON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ برگزاری کمیس
+ یون تحویل موقت — چمران / RES-C
+ ON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-bj-d3@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270118T090000
+DTEND;TZID=Asia/Tehran:20270118T093000
+SUMMARY:3 روز مانده به: تاریخ 
+ برگزاری کمیسیون تحویل موقت — چ
+ مران / RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ برگزاری کمیس
+ یون تحویل موقت\nتاریخ سررسید (
+ شمسی): 1405/11/01\nاین یادآوری
+  3 روز قبل از سررسید است.\nسطر
+  4 در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ برگزاری کمیسیون تحویل موقت
+  — چمران / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ برگزاری کمیسیون تحویل موقت
+  — چمران / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-bj-d7@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270114T090000
+DTEND;TZID=Asia/Tehran:20270114T093000
+SUMMARY:7 روز مانده به: تاریخ 
+ برگزاری کمیسیون تحویل موقت — چ
+ مران / RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ برگزاری کمیس
+ یون تحویل موقت\nتاریخ سررسید (
+ شمسی): 1405/11/01\nاین یادآوری
+  7 روز قبل از سررسید است.\nسطر
+  4 در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ برگزاری کمیسیون تحویل موقت
+  — چمران / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ برگزاری کمیسیون تحویل موقت
+  — چمران / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-bj-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270916T090000
+DTEND;TZID=Asia/Tehran:20270916T093000
+SUMMARY:تاریخ برگزاری کمیسیون 
+ تحویل موقت — چمران / RES-CON/1
+ 405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ برگزاری کمیس
+ یون تحویل موقت\nتاریخ سررسید (
+ شمسی): 1406/06/25\nسطر 5 در فا
+ یل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ برگزاری کمیس
+ یون تحویل موقت — چمران / RES-C
+ ON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ برگزاری کمیس
+ یون تحویل موقت — چمران / RES-C
+ ON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-bj-d3@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270913T090000
+DTEND;TZID=Asia/Tehran:20270913T093000
+SUMMARY:3 روز مانده به: تاریخ 
+ برگزاری کمیسیون تحویل موقت — چ
+ مران / RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ برگزاری کمیس
+ یون تحویل موقت\nتاریخ سررسید (
+ شمسی): 1406/06/25\nاین یادآوری
+  3 روز قبل از سررسید است.\nسطر
+  5 در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ برگزاری کمیسیون تحویل موقت
+  — چمران / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ برگزاری کمیسیون تحویل موقت
+  — چمران / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-bj-d7@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270909T090000
+DTEND;TZID=Asia/Tehran:20270909T093000
+SUMMARY:7 روز مانده به: تاریخ 
+ برگزاری کمیسیون تحویل موقت — چ
+ مران / RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ برگزاری کمیس
+ یون تحویل موقت\nتاریخ سررسید (
+ شمسی): 1406/06/25\nاین یادآوری
+  7 روز قبل از سررسید است.\nسطر
+  5 در فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ برگزاری کمیسیون تحویل موقت
+  — چمران / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:7 روز مانده به: تا
+ ریخ برگزاری کمیسیون تحویل موقت
+  — چمران / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-bk-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270701T090000
+DTEND;TZID=Asia/Tehran:20270701T093000
+SUMMARY:تاریخ پایان مهلت رفع ن
+ قص — بیستون / RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ پایان مهلت 
+ رفع نقص\nتاریخ سررسید (شمسی): 
+ 1406/04/10\nسطر 3 در فایل قرار
+ دادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان مهلت ر
+ فع نقص — بیستون / RES-CON/1405
+ -001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان مهلت ر
+ فع نقص — بیستون / RES-CON/1405
+ -001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-bk-d3@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270628T090000
+DTEND;TZID=Asia/Tehran:20270628T093000
+SUMMARY:3 روز مانده به: تاریخ 
+ پایان مهلت رفع نقص — بیستون / 
+ RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ پایان مهلت 
+ رفع نقص\nتاریخ سررسید (شمسی): 
+ 1406/04/10\nاین یادآوری 3 روز 
+ قبل از سررسید است.\nسطر 3 در ف
+ ایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ پایان مهلت رفع نقص — بیستو
+ ن / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ پایان مهلت رفع نقص — بیستو
+ ن / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-bk-d10@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270621T090000
+DTEND;TZID=Asia/Tehran:20270621T093000
+SUMMARY:10 روز مانده به: تاریخ
+  پایان مهلت رفع نقص — بیستون /
+  RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ پایان مهلت 
+ رفع نقص\nتاریخ سررسید (شمسی): 
+ 1406/04/10\nاین یادآوری 10 روز
+  قبل از سررسید است.\nسطر 3 در 
+ فایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ پایان مهلت رفع نقص — بیست
+ ون / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ پایان مهلت رفع نقص — بیست
+ ون / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-bk-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270214T090000
+DTEND;TZID=Asia/Tehran:20270214T093000
+SUMMARY:تاریخ پایان مهلت رفع ن
+ قص — چمران / RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ پایان مهلت ر
+ فع نقص\nتاریخ سررسید (شمسی): 1
+ 405/11/25\nسطر 4 در فایل قرارد
+ ادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان مهلت ر
+ فع نقص — چمران / RES-CON/1405-
+ 002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان مهلت ر
+ فع نقص — چمران / RES-CON/1405-
+ 002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-bk-d3@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270211T090000
+DTEND;TZID=Asia/Tehran:20270211T093000
+SUMMARY:3 روز مانده به: تاریخ 
+ پایان مهلت رفع نقص — چمران / R
+ ES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ پایان مهلت ر
+ فع نقص\nتاریخ سررسید (شمسی): 1
+ 405/11/25\nاین یادآوری 3 روز ق
+ بل از سررسید است.\nسطر 4 در فا
+ یل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ پایان مهلت رفع نقص — چمران
+  / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ پایان مهلت رفع نقص — چمران
+  / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-bk-d10@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270204T090000
+DTEND;TZID=Asia/Tehran:20270204T093000
+SUMMARY:10 روز مانده به: تاریخ
+  پایان مهلت رفع نقص — چمران / 
+ RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ پایان مهلت ر
+ فع نقص\nتاریخ سررسید (شمسی): 1
+ 405/11/25\nاین یادآوری 10 روز 
+ قبل از سررسید است.\nسطر 4 در ف
+ ایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ پایان مهلت رفع نقص — چمرا
+ ن / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ پایان مهلت رفع نقص — چمرا
+ ن / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-bk-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20271007T090000
+DTEND;TZID=Asia/Tehran:20271007T093000
+SUMMARY:تاریخ پایان مهلت رفع ن
+ قص — چمران / RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ پایان مهلت ر
+ فع نقص\nتاریخ سررسید (شمسی): 1
+ 406/07/15\nسطر 5 در فایل قرارد
+ ادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان مهلت ر
+ فع نقص — چمران / RES-CON/1405-
+ 003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان مهلت ر
+ فع نقص — چمران / RES-CON/1405-
+ 003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-bk-d3@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20271004T090000
+DTEND;TZID=Asia/Tehran:20271004T093000
+SUMMARY:3 روز مانده به: تاریخ 
+ پایان مهلت رفع نقص — چمران / R
+ ES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ پایان مهلت ر
+ فع نقص\nتاریخ سررسید (شمسی): 1
+ 406/07/15\nاین یادآوری 3 روز ق
+ بل از سررسید است.\nسطر 5 در فا
+ یل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ پایان مهلت رفع نقص — چمران
+  / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:3 روز مانده به: تا
+ ریخ پایان مهلت رفع نقص — چمران
+  / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-bk-d10@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20270927T090000
+DTEND;TZID=Asia/Tehran:20270927T093000
+SUMMARY:10 روز مانده به: تاریخ
+  پایان مهلت رفع نقص — چمران / 
+ RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ پایان مهلت ر
+ فع نقص\nتاریخ سررسید (شمسی): 1
+ 406/07/15\nاین یادآوری 10 روز 
+ قبل از سررسید است.\nسطر 5 در ف
+ ایل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ پایان مهلت رفع نقص — چمرا
+ ن / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ پایان مهلت رفع نقص — چمرا
+ ن / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-bn-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20280710T090000
+DTEND;TZID=Asia/Tehran:20280710T093000
+SUMMARY:تاریخ پایان دوره تضمین
+  — بیستون / RES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ پایان دوره 
+ تضمین\nتاریخ سررسید (شمسی): 14
+ 07/04/20\nسطر 3 در فایل قراردا
+ دها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان دوره ت
+ ضمین — بیستون / RES-CON/1405-0
+ 01
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان دوره ت
+ ضمین — بیستون / RES-CON/1405-0
+ 01
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-bn-d10@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20280630T090000
+DTEND;TZID=Asia/Tehran:20280630T093000
+SUMMARY:10 روز مانده به: تاریخ
+  پایان دوره تضمین — بیستون / R
+ ES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ پایان دوره 
+ تضمین\nتاریخ سررسید (شمسی): 14
+ 07/04/20\nاین یادآوری 10 روز ق
+ بل از سررسید است.\nسطر 3 در فا
+ یل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ پایان دوره تضمین — بیستون
+  / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ پایان دوره تضمین — بیستون
+  / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-bn-d30@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20280610T090000
+DTEND;TZID=Asia/Tehran:20280610T093000
+SUMMARY:30 روز مانده به: تاریخ
+  پایان دوره تضمین — بیستون / R
+ ES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ پایان دوره 
+ تضمین\nتاریخ سررسید (شمسی): 14
+ 07/04/20\nاین یادآوری 30 روز ق
+ بل از سررسید است.\nسطر 3 در فا
+ یل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ پایان دوره تضمین — بیستون
+  / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ پایان دوره تضمین — بیستون
+  / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0001-bn-d60@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20280511T090000
+DTEND;TZID=Asia/Tehran:20280511T093000
+SUMMARY:60 روز مانده به: تاریخ
+  پایان دوره تضمین — بیستون / R
+ ES-CON/1405-001
+DESCRIPTION:پروژه: بیستون\nشما
+ ره قرارداد: RES-CON/1405-001\n
+ عنوان تاریخ: تاریخ پایان دوره 
+ تضمین\nتاریخ سررسید (شمسی): 14
+ 07/04/20\nاین یادآوری 60 روز ق
+ بل از سررسید است.\nسطر 3 در فا
+ یل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ پایان دوره تضمین — بیستون
+  / RES-CON/1405-001
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ پایان دوره تضمین — بیستون
+  / RES-CON/1405-001
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-bn-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20280224T090000
+DTEND;TZID=Asia/Tehran:20280224T093000
+SUMMARY:تاریخ پایان دوره تضمین
+  — چمران / RES-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ پایان دوره ت
+ ضمین\nتاریخ سررسید (شمسی): 140
+ 6/12/05\nسطر 4 در فایل قرارداد
+ ها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان دوره ت
+ ضمین — چمران / RES-CON/1405-00
+ 2
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان دوره ت
+ ضمین — چمران / RES-CON/1405-00
+ 2
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-bn-d10@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20280214T090000
+DTEND;TZID=Asia/Tehran:20280214T093000
+SUMMARY:10 روز مانده به: تاریخ
+  پایان دوره تضمین — چمران / RE
+ S-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ پایان دوره ت
+ ضمین\nتاریخ سررسید (شمسی): 140
+ 6/12/05\nاین یادآوری 10 روز قب
+ ل از سررسید است.\nسطر 4 در فای
+ ل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ پایان دوره تضمین — چمران 
+ / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ پایان دوره تضمین — چمران 
+ / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-bn-d30@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20280125T090000
+DTEND;TZID=Asia/Tehran:20280125T093000
+SUMMARY:30 روز مانده به: تاریخ
+  پایان دوره تضمین — چمران / RE
+ S-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ پایان دوره ت
+ ضمین\nتاریخ سررسید (شمسی): 140
+ 6/12/05\nاین یادآوری 30 روز قب
+ ل از سررسید است.\nسطر 4 در فای
+ ل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ پایان دوره تضمین — چمران 
+ / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ پایان دوره تضمین — چمران 
+ / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0002-bn-d60@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20271226T090000
+DTEND;TZID=Asia/Tehran:20271226T093000
+SUMMARY:60 روز مانده به: تاریخ
+  پایان دوره تضمین — چمران / RE
+ S-CON/1405-002
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-002\nع
+ نوان تاریخ: تاریخ پایان دوره ت
+ ضمین\nتاریخ سررسید (شمسی): 140
+ 6/12/05\nاین یادآوری 60 روز قب
+ ل از سررسید است.\nسطر 4 در فای
+ ل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ پایان دوره تضمین — چمران 
+ / RES-CON/1405-002
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ پایان دوره تضمین — چمران 
+ / RES-CON/1405-002
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-bn-d0@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20280414T090000
+DTEND;TZID=Asia/Tehran:20280414T093000
+SUMMARY:تاریخ پایان دوره تضمین
+  — چمران / RES-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ پایان دوره ت
+ ضمین\nتاریخ سررسید (شمسی): 140
+ 7/01/26\nسطر 5 در فایل قرارداد
+ ها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان دوره ت
+ ضمین — چمران / RES-CON/1405-00
+ 3
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:تاریخ پایان دوره ت
+ ضمین — چمران / RES-CON/1405-00
+ 3
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-bn-d10@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20280404T090000
+DTEND;TZID=Asia/Tehran:20280404T093000
+SUMMARY:10 روز مانده به: تاریخ
+  پایان دوره تضمین — چمران / RE
+ S-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ پایان دوره ت
+ ضمین\nتاریخ سررسید (شمسی): 140
+ 7/01/26\nاین یادآوری 10 روز قب
+ ل از سررسید است.\nسطر 5 در فای
+ ل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ پایان دوره تضمین — چمران 
+ / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10 روز مانده به: ت
+ اریخ پایان دوره تضمین — چمران 
+ / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-bn-d30@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20280315T090000
+DTEND;TZID=Asia/Tehran:20280315T093000
+SUMMARY:30 روز مانده به: تاریخ
+  پایان دوره تضمین — چمران / RE
+ S-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ پایان دوره ت
+ ضمین\nتاریخ سررسید (شمسی): 140
+ 7/01/26\nاین یادآوری 30 روز قب
+ ل از سررسید است.\nسطر 5 در فای
+ ل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ پایان دوره تضمین — چمران 
+ / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:30 روز مانده به: ت
+ اریخ پایان دوره تضمین — چمران 
+ / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:qc20260818132537-0003-bn-d60@contracts.local
+DTSTAMP:20260905T120600Z
+SEQUENCE:15
+DTSTART;TZID=Asia/Tehran:20280214T090000
+DTEND;TZID=Asia/Tehran:20280214T093000
+SUMMARY:60 روز مانده به: تاریخ
+  پایان دوره تضمین — چمران / RE
+ S-CON/1405-003
+DESCRIPTION:پروژه: چمران\nشمار
+ ه قرارداد: RES-CON/1405-003\nع
+ نوان تاریخ: تاریخ پایان دوره ت
+ ضمین\nتاریخ سررسید (شمسی): 140
+ 7/01/26\nاین یادآوری 60 روز قب
+ ل از سررسید است.\nسطر 5 در فای
+ ل قراردادها
+CATEGORIES:قرارداد
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ پایان دوره تضمین — چمران 
+ / RES-CON/1405-003
+TRIGGER:-PT0M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:60 روز مانده به: ت
+ اریخ پایان دوره تضمین — چمران 
+ / RES-CON/1405-003
+TRIGGER:-PT12H
+END:VALARM
+END:VEVENT
 END:VCALENDAR
